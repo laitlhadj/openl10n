@@ -6,8 +6,7 @@
 .idea
 /.sass-cache/
 /node_modules/
-/web/assets/dist/
 /web/bundles/
-
+.DS_Store
 /vendor/
 /composer.phar
