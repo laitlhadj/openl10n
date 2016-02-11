@@ -4513,7 +4513,7 @@ a.thumbnail.active {
 
 .media-left,
 .media > .pull-left {
-  padding-right: 10px; }
+  margin-right: 10px; }
 
 .media-left,
 .media-right,
